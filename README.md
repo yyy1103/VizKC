@@ -4,7 +4,8 @@
 
 The full code will be released upon acceptance of the paper.
 
-<img width="1866" height="1185" alt="image" src="https://github.com/user-attachments/assets/c422c971-4eee-4c75-8d08-1c9718edf5de" />
+<img width="1906" height="1231" alt="image" src="https://github.com/user-attachments/assets/05c196a3-a4ef-4c39-b76f-5bfa742f79aa" />
+
 
 (a) Our method outperforms a variety of MLLMs, averaged in each task group. (b) Motivation illustration of our novel concept VizKC. (c,d,e) Examples of image-sequence reasoning tasks. (f) Illustration of our method which encompasses two modules: generation and utilization.
 
