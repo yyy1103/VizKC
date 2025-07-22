@@ -72,7 +72,8 @@ Trope: https://github.com/JoshuaFeinglass/TROPE
 
 -  VizKC-MIR exhibits superior performance than all other methods and can be implemented with distinct MLLMs.
   
-<img width="1918" height="673" alt="image" src="https://github.com/user-attachments/assets/4d7f91d0-73ad-43a8-9cd1-4ba64fa2a3da" />
+<img width="1981" height="709" alt="image" src="https://github.com/user-attachments/assets/83214979-f7fa-4f74-ba97-f12f2fc23e0e" />
+
 
 
 
