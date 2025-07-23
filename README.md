@@ -65,7 +65,8 @@ K-replay:https://huggingface.co/datasets/StarBottle/MIBench.
 Trope: https://github.com/JoshuaFeinglass/TROPE
 
 
-<img width="1789" height="963" alt="image" src="https://github.com/user-attachments/assets/02a06ba3-aad8-4a25-893f-02aec34ef36c" />
+<img width="2119" height="1267" alt="image" src="https://github.com/user-attachments/assets/f2f38d3f-0bf0-4df1-8566-61c3d1e9e54d" />
+
 
 
 **Results:**
